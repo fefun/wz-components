@@ -1,0 +1,15 @@
+{
+  "name": "wz-form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rc-form": "^2.1.0",
+    "wz-input": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
