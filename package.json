@@ -3,5 +3,8 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.0.3"
+  },
+  "dependencies": {
+    "wz-input": "^1.0.0"
   }
 }
